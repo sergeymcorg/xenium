@@ -1,0 +1,18 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "gic-400.h": "c",
+        "rpi-armtimer.h": "c",
+        "stdint.h": "c",
+        "rpi-base.h": "c",
+        "rpi-gpio.h": "c",
+        "rpi-interrupts.h": "c",
+        "rpi-interrupts-controller.h": "c",
+        "uspios.h": "c",
+        "rpi-mailbox-interface.h": "c",
+        "rpi-mailbox.h": "c",
+        "rpi-term.h": "c",
+        "font.h": "c",
+        "rpi-systimer.h": "c"
+    }
+}
